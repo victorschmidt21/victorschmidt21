@@ -1,66 +1,59 @@
-👨‍💻 Victor Emanuel R Schmidt
+# Victor Emanuel R Schmidt
 
-Desenvolvedor Full Stack Web com foco em APIs, aplicações escaláveis e automações orientadas a IA. Atuo transformando problemas reais de negócio em soluções digitais eficientes, combinando desenvolvimento web, integrações e inteligência artificial. Curioso por natureza, estou sempre aprendendo e evoluindo tecnicamente.
+**Desenvolvedor Full Stack Web** focado em **APIs, aplicações escaláveis e automações orientadas a IA**.  
+Atuo transformando problemas reais de negócio em soluções digitais eficientes, combinando desenvolvimento web, integrações e inteligência artificial. Curioso por natureza e sempre em evolução técnica.
 
-🚀 Sobre mim
+<p align="left">
+  <a href="https://www.linkedin.com/in/victor-schmidt-329827300/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/victorschmidt21">
+    <img src="https://img.shields.io/badge/GitHub-Repositórios-black?logo=github" />
+  </a>
+</p>
 
-🎓 Estudante de Engenharia de Software pelo Biopark (2024–2027)
+---
 
-🏢 Desenvolvedor na Vorium Company, atuando com automação de processos, integrações de sistemas e soluções orientadas a IA
+## Sobre mim
 
-⚙️ Experiência prática com Node.js, TypeScript, APIs REST e desenvolvimento web
+- **Engenharia de Software** — Biopark *(2024–2027)*
+- Desenvolvedor na **Vorium Company**, atuando com **automação de processos, integrações e soluções orientadas a IA**
+- Experiência prática com **Node.js, TypeScript, APIs REST e desenvolvimento web**
+- Experiência com **NestJS** em projetos **acadêmicos e pessoais**
+- Em busca de oportunidades como **Desenvolvedor Full Stack Web**, especialmente em ambientes **AI-first**
 
-📚 Vivência com NestJS em projetos acadêmicos e pessoais
+---
 
-🎯 Busco oportunidades como Desenvolvedor Full Stack Web, especialmente em ambientes AI-first e orientados a produto
+## Tecnologias & Ferramentas
 
-🧰 Tecnologias & Ferramentas
-Front-end
+### Front-end
+- React  
+- Tailwind CSS  
 
-React
+### Back-end
+- Node.js  
+- Express  
+- NestJS *(projetos acadêmicos e pessoais)*  
+- Java | Spring Boot  
 
-Tailwind CSS
+### Banco de Dados
+- PostgreSQL  
+- MySQL  
+- Prisma ORM  
 
-React Native | Expo
+### Outros
+- APIs REST  
+- Zod  
+- React Hook Form  
+- Context API  
+- Zustand  
+- Firebase Auth  
+- Integrações e automações  
 
-Back-end
+---
 
-Node.js
+## 📫 Contato
 
-Express
-
-NestJS (projetos acadêmicos e pessoais)
-
-Java | Spring Boot
-
-Banco de Dados
-
-PostgreSQL
-
-MySQL
-
-Prisma ORM
-
-Outros
-
-APIs REST
-
-Zod
-
-React Hook Form
-
-Context API
-
-Zustand
-
-Firebase Auth
-
-Integração de serviços e automações
-
-📫 Contato
-
-📧 Email: victorschmidt21@outlook.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/victor-schmidt-329827300/
-
-💻 GitHub: https://github.com/victorschmidt21
+- 📧 **Email:** victorschmidt21@outlook.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/victor-schmidt-329827300/  
+- 💻 **GitHub:** https://github.com/victorschmidt21  
