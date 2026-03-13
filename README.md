@@ -17,7 +17,6 @@ Atuo transformando problemas reais de negócio em soluções digitais eficientes
 ## Sobre mim
 
 - **Engenharia de Software** — Biopark *(2024–2027)*
-- Desenvolvedor na **Vorium Company**, atuando com **automação de processos, integrações e soluções orientadas a IA**
 - Experiência prática com **Node.js, TypeScript, APIs REST e desenvolvimento web**
 - Experiência com **NestJS** em projetos **acadêmicos e pessoais**
 - Em busca de oportunidades como **Desenvolvedor Full Stack Web**, especialmente em ambientes **AI-first**
