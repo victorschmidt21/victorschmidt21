@@ -17,8 +17,7 @@ Atuo transformando problemas reais de negócio em soluções digitais eficientes
 ## Sobre mim
 
 - **Engenharia de Software** — Biopark *(2024–2027)*
-- Experiência prática com **Node.js, TypeScript, APIs REST e desenvolvimento web**
-- Experiência com **NestJS** em projetos **acadêmicos e pessoais**
+- Experiência profissional com **Node.js, TypeScript, APIs REST e desenvolvimento web**
 - Em busca de oportunidades como **Desenvolvedor Full Stack Web**, especialmente em ambientes **AI-first**
 
 ---
@@ -26,13 +25,11 @@ Atuo transformando problemas reais de negócio em soluções digitais eficientes
 ## Tecnologias & Ferramentas
 
 ### Front-end
-- React  
-- Tailwind CSS  
+- React
+- Next
 
 ### Back-end
-- Node.js  
-- Express  
-- NestJS *(projetos acadêmicos e pessoais)*  
+- Node.js | Express | NestJS 
 - Java | Spring Boot  
 
 ### Banco de Dados
